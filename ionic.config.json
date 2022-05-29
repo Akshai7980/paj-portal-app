@@ -1,0 +1,10 @@
+{
+  "name": "paj-portal",
+  "integrations": {
+    "capacitor": {
+      "enabled": false
+    },
+    "cordova": {}
+  },
+  "type": "angular"
+}
